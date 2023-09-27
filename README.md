@@ -1,2 +1,1 @@
-# Leetcode
-Leetcode problems
+Leetcode problems I solved and felt like uploading
