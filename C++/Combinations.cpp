@@ -13,7 +13,6 @@ public:
         curr.pop_back();
         backtrack(curr, res, i + 1, n, k);
     }
-
     vector<vector<int>> combine(int n, int k) {
         vector<vector<int>> res;
         vector<int> curr;
